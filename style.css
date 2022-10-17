@@ -81,5 +81,8 @@ img{
     .container{
         padding: 5rem 2rem;
     }
+    img{
+        width: 100%;
+    }
 
 }
