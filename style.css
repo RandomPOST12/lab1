@@ -73,3 +73,13 @@ img{
 .congrats{
     color: rgb(238, 19, 154);
 }
+
+
+@media only screen and (max-width: 650px) {
+
+
+    .container{
+        padding: 5rem 2rem;
+    }
+
+}
